@@ -6,8 +6,8 @@ O Vision Studio é uma ferramenta poderosa que permite explorar o potencial da I
 
 ### ⚙️Recursos Utilizados:
 
-- **Pasta Inputs:** Imagens salvas para o laboratório.
-- **Pasta Output:** Resultados do laboratório.
+- **Pasta inputs:** Imagens salvas para o laboratório.
+- **Pasta output:** Resultados do laboratório.
 
 ### 📚Objetivo:
 
